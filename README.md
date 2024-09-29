@@ -1,3 +1,6 @@
+ArduboyPlaytune for Esp32 Odroid-Go clone
+Arduino v2.0.5
+
 # ArduboyPlaytune
 
 The ArduboyPlaytune library is maintained in a git repository hosted on [GitHub](https://github.com/) at:
